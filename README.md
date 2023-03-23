@@ -7,7 +7,7 @@ The HTML code would be more confusing to navigate without the semantic tags. In 
 
 ## Installation
 
-Open the link (), and observe the layout and information on the website.
+Open the link (<https://anj-23.github.io/semantic-html/>), and observe the layout and information on the website.
 
 ## Usage
 
